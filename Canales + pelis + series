@@ -1146,10 +1146,6 @@ http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/85900.mkv
 http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/134452.mkv
 #EXTINF:-1 tvg-name="El Cataclismo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPral5bZqOoggWXtZYzsp6lixaE.jpg" group-title="CINE 2021",El Cataclismo (2021)
 http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/174325.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Love Death Robots" tvg-logo="http://mirror.streamhubtv.me:8080/images/-jimtHq13RLWha8r7dypZnm2sNYv859Ev9WeaLoRyMc1eUZw1x1DEEkygYLPuzD-mKr8WtziFe61KfbtE4Mz3g3QD5dztYz6maIf3CkcT0Q.jpg" group-title="USA - 24/7 - SERIES TV",Love Death Robots
-http://todoplus.digital:8080/AngelicaArmijo2030/zpYXsKvpgs/155069.ts
-#EXTINF:-1 tvg-name="Top Gun: Maverick (4K Dual) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg" group-title="CINE 4K DUAL AUDIO",Top Gun: Maverick (4K Dual) (2022)
-http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/163017.mkv
 #EXTINF:-1 tvg-name="Spectral (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYtIWhTDgPTcutD24f53Dcc7BAE.jpg" group-title="CINE CIENCIA FICCION",Spectral (2016)
 http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/4360.mkv
 #EXTINF:-1 tvg-name="El Señor de los Anillos: Los anillos de poder S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg" group-title="Series Amazon",El Señor de los Anillos: Los anillos de poder S01E01
@@ -1218,3 +1214,7 @@ http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/160859.mp4
 http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/19240.mkv
 #EXTINF:-1 tvg-name="crepusculo amanecer parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glWTXxVD6aPKwRHwPvoihV3RF9M.jpg" group-title="CINE ROMANTICO",crepusculo amanecer parte 2
 http://todoplus.digital:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/19406.mkv
+#EXTINF:-1 tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg" group-title="ESTRENOS 2022",Top Gun: Maverick (2022)
+http://totalplay.site:8080/movie/AngelicaArmijo2030/zpYXsKvpgs/151094.mkv
+#EXTINF:0 tvg-id="avi" group-title="Black Adam",Black Adam
+https://googledrive.2022iptvm3u.workers.dev/0:/Trabajo%20investigaci%C3%B3n.mp4
