@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, DISCOVERY KIDS
+http://192.168.1.82/hls/stream.m3u8
+
