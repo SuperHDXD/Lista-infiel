@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Discovery Kids
-https://0122-152-172-71-172.sa.ngrok.io/hls/stream.m3u8
-#EXTINF:-1,Cartoon Network
-https://0122-152-172-71-172.sa.ngrok.io/hls/stream2.m3u8
+#EXTINF:-1,Dora la Exploradora
+https://e79a-152-172-90-72.sa.ngrok.io/hls/stream.m3u8
