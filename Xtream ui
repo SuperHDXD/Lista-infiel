@@ -1,8 +1,49 @@
+Instalar Xtream UI
+
+
 sudo su
+
 apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; wget https://lofertech.com/xui/install.py ; sudo python install.py
-MAIN
-Y
-Contraseña de MSQL
+
+
 apt-get install unzip e2fsprogs python-paramiko -y && rm -rf /home/xtreamcodes/iptv_xtream_codes/admin && rm -rf /home/xtreamcodes/iptv_xtream_codes/pytools && wget "https://lofertech.com/xui/update.zip" -O /tmp/update.zip -o /dev/null && unzip /tmp/update.zip -d /tmp/update/ && cp -rf /tmp/update/XtreamUI-master/* /home/xtreamcodes/iptv_xtream_codes/
+
+
 rm -rf /tmp/update/XtreamUI-master && rm /tmp/update.zip && rm -rf /tmp/update && sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx && sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp && sudo chattr -i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && sudo wget -q https://lofertech.com/xui/GeoLite2.mmdb -O /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && chattr +i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && /home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
+
+
+
 sudo chattr -i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && sudo wget -q https://lofertech.com/xui/GeoLite2.mmdb -O /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && sudo chattr +i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb
+
+
+sudo cp servers_checker.php servers_checker.php.orgl && rm servers_checker.php && wget https://lofertech.com/xui/servers_checker.php && sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
+cd /home/xtreamcodes/iptv_xtream_codes/crons/ && sudo cp servers_checker.php servers_checker.php.orgl && rm servers_checker.php && wget https://lofertech.com/xui/servers_checker.php && sudo /home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
+
+
+
+
+wget "https://lofertech.com/xui/pid_monitor.zip" -O /tmp/pid_monitor.zip -o /dev/null && unzip /tmp/pid_monitor.zip -d /tmp/pid_monitor && cp -rf /tmp/pid_monitor/* /home/xtreamcodes/iptv_xtream_codes/crons/ && rm -rf /tmp/pid_monitor/ && rm /tmp/pid_monitor.zip
+
+
+
+sudo apt-get install nano && sudo nano /etc/crontab
+
+/home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
+sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx/sbin/nginx
+
+sudo chmod +x /home/xtreamcodes/iptv_xtream_codes/nginx_rtmp/sbin/nginx_rtmp
+
+/home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
+sudo chattr -i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb chmod 777 /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb chattr +i home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb
+
+wget https://archive.org/download/geolite2_201910/GeoLite2.mmdb -O /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb && chown xtreamcodes.xtreamcodes  /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb  && chattr +i /home/xtreamcodes/iptv_xtream_codes/GeoLite2.mmdb
+
+sed -i 's|chown -R xtreamcodes:xtreamcodes /home/xtreamcodes|chown -R xtreamcodes:xtreamcodes /home/xtreamcodes 2>/dev/null|g' /home/xtreamcodes/iptv_xtream_codes/start_services.sh
+
+
+
