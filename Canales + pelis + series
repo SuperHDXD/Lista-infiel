@@ -85,3 +85,282 @@ http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/2479.m3u8
 http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/32359.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-logo="http://files.linehd.webnode.com/200000001-1c4c21d460/tooncast.png" group-title="000000000INFANTIL",Tooncast
 http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/2482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paw Patrol 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Paw Patrol 24/7
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/31727.m3u8
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="Cine Latino" tvg-logo="https://s3.castbox.fm/29/e1/43/98e45d48d39a208a4d9dd5c2f0.png" group-title="CINE",Cine Latino
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/49062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Peppa Pig 24/7
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/31713.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jimmy Neutron 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Jimmy Neutron 24/7
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/49639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Don Gato y Su Pandilla 24/7" tvg-logo="https://i.ibb.co/8Xf1rWT/Icono-24-7-78486-19.jpg" group-title="CANALES 24/7",Don Gato y Su Pandilla 24/7
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/48796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="https://vignette.wikia.nocookie.net/bobesponja/images/b/bb/Bob_Esponja.png" group-title="CANALES 24/7",Bob Esponja 24/7
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/7094.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxTQBgS7zBb3TOmmAAibWRQPt6A.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6IlgDetFI1yYRx3jYPCGvYBowo.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhIkleo5TgzzTQ46MpOnYxT7CRN.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uK6XqeqHBkelAwWIZtHUX9w1g5T.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42e7PwGd1pObjpMIz0lj2igJI4Z.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqjhUqLmDFPXaPOFuGK37bcXqi9.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfMt3ncqY3UvSsQA42quLji9PgC.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S01 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTAeX0zeQnDQrUZD4q34kFvfPvZ.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6xm3pgrnmECDfKTFZf980gt1Nok.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otbWoDekq4HFYTU1aUxG4YLGkfB.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4MxJ2d9SUNynkZxmm1vOVjE5uW0.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2bcGerE9gsSAIg7V75xNFsGXkh.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i57LIAYzTBQDn3aQZbf9sPNNtvj.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDjTNcNcivSTUSrYtzEXNRJF0GO.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23FUfPV7JjAJ7GAEM75M0kMwTfa.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKRZEEfG0CJKg4xBf3eB5EjyerV.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjYAKLMHUEPJ9w4GC6lI8ih8YW9.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZg1rzzWsJMI9zQamBcMNCjoqAV.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8d8qD39Qn9D7PAqoajBd4wFkRi.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clAsJz8Dnom8CDM5iRGZt1Bz3lr.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S02 E13
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Rnwe763YBcO5jfzJtHOOYHTAhX.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNViaLzwsjxd6ayMxh1s3H8cwXF.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UKyujBrr4QrFPa9wpvms41NRaV.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMKosxFeWt6r8U7SoqRshBVOQLi.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FArEYNMAXlw2KQAf6KuQzriw8j.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wak2XxV7QRKD6u8V3VQ7gDIqm9r.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ed6Tdtl20JsEVFVqN53oPDtS7O6.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq8IQfW9y4AWWJaxsikC71BDL83.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bfEPvKOMkParLTzohzaSbH6s6Vi.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTuD3HlpvoH8PfyGdN7Rhl3P9BL.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDtQjWNLlvkq0cxtbG3Jcl6oxNV.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wW8xd2K6xwQU6NekUZbIcEN7IBq.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9W9oJg2H1V24QdkoPdoiM0u2sQ.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E13
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWg99fuvoPpNs5YE76MXY2bWKWo.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E14
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWg99fuvoPpNs5YE76MXY2bWKWo.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E15
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7k4Ro0xo9IcSWmIW02vQq7U1AE3.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E16
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrxYOmwyWu4xj2q8f2lElGbQO5p.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E17
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qjeN8RKiTQRx7j2I4IxlrRwbiX.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S03 E18
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijmmuoyOqL0GfB20KsSoiBrPYdu.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bAgAkQQrNT7ooCd646gsix74fW.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11rQ160aGXBbBkeqkBDCBz0daMN.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQt4dYx7PXFMPyzmuUvOBZMyW4d.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a8zvcKwbTnCJbOORnWMO6ZPdQnF.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XfK7wWOsKSfvY3L0hFpyplKBas.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJR0DUNhTCyosUrqBWib8kbzR7X.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIIPBK8hrWH4ZeSIK1o7BMbrE2y.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvV0WVr4bkSTBAE6A6TC9S7lbYs.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIIPBK8hrWH4ZeSIK1o7BMbrE2y.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZtRPTy5HADIvc0jiAzlrf1KeWp.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIIPBK8hrWH4ZeSIK1o7BMbrE2y.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiuyznYbhUuoEQB19NRfuW09HW5.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E13
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dRWrRHvajVnvtcromwuIKycMDJ.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S04 E14
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Sib5HZL7QP5fDlSbuNvAmkuLM.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3oIYHEBhhXwt1OkCmpD4ouh3Vv6.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1FHJBlZR8wFRTSbe5wz4wG6QbR.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IW7NXWm88E4WYVRawRjJIMNGU3.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42ctCIcVdFvwUw2Gjeziws6GE8T.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7g8uSxhIwr8Ci9onJoeOfLsCzMX.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iODA0qyCoXLZ9Bv6Vqd8QjM4nY.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2EmXiYGTZnsyeSUlI8CsyYFeiB.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JdSIO99Ngqgj7rqIgRZ8zID0OE.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrnzYnnVJGFpXP1Bsqwcm8GPwuI.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8pWap1Aq4LEFv6cTy6VZfTVUb.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxUrwYyAWazFZCaopNRH6Wr4dOM.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldcZtqW5w0JTikA63DrEAG1ON3q.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E13
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9c7rOeObMTG9Qgxvrc1gVUK7h.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E14
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sTKq4o81eIcfsFasT5FtBpkOj7.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E15
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kc6vyVHYYwR1ToDlFNfgE071H4v.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E16
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mZpsPXmM77gB1AWdlAAchvWa7o.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E17
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WJgK3nKeTfU57P6TT97Fsdtlxr.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E18
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Z36MW51pSXkNMo5m7ivkpVBAoq.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E19
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddGe15adZPuaBiRAhMCvnKNKYEm.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E20
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xJQ1bhGkg5Ju7SZUjX2jiZSZTF.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S05 E21
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiLxMYISM1K1nejroA5UKr1WnVm.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbOnuIgAu0ly2ihTUvY9KlFtOuA.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cixAnO31UrHdfGbsvvt6uklzkR.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcG0L7Fnw6Fdt6KTwBxLsurakt5.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoapZRcpnNF1XzREFphGLDRYoAB.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvo6sYzspMauYwRcK9VZEfMqKi6.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUk8UOAzb98YNLiRzBPabsVaFHP.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/W6q6BPbSdYiPWDbwI1wb9FslPA.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cr6LNROCfPNSaO25RlTUTQuBed.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIvroYpFmUWcJZcuDOdGGSKSDRf.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rKatqpIhPZTx5botr5jlldNB4y.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YwBE5P8yVf2J2vVLWgdl9N6uiO.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yaQQ2RzDNsiwtO3xvGXaoHldSEa.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E13
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/puIPYPVriEuKWC6orh3tLriTE6Q.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E14
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6wVogAm3utIpcHag2hfM9QggrRD.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E15
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S06 E16
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksnpIElS6gaW7kk5fQyQjapzQSw.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EUHF56yDgNXpxgudyahwrq9sdj.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E13
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E14
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E15
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E16
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E17
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E18
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E19
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S07 E20
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t13sTvVEtTCgDTmJloV49PT5UIH.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S08 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S08 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S08 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S08 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S08 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S08 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E01
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0y98QAxUgUQUHL5xS99mLZ1oQt.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E02
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYdpa49T5yeuzpUksVr9zjyrI5s.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E03
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E04
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E05
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E06
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E07
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E11
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los padrinos mágicos S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg" group-title="LOS PADRINOS MAGICOS",Los padrinos mágicos S09 E12
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/16433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Retro Channel HD" tvg-logo="" group-title="VARIEDADES",The Retro Channel HD
+http://directo.ddns.me:33200/live/Mathiasiptv/Iroquitv/45579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pb06joaqZVmBl4INIoYdkiebtNf.jpg" group-title="COBRA KAI",Cobra Kai S04 E08
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/50416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTxE8PL9msdgicHwtjWQgzkddF7.jpg" group-title="COBRA KAI",Cobra Kai S04 E09
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/50417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hQPOqaNZ1aKwuPlcgfCvjjH0kj.jpg" group-title="COBRA KAI",Cobra Kai S04 E10
+http://directo.ddns.me:33200/series/Mathiasiptv/Iroquitv/50418.mp4
+
+
+
+
+
